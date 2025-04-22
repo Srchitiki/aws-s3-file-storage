@@ -65,7 +65,7 @@ This project showcases how to use **Amazon S3** to create a storage solution for
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::xyzcorp-file-storage/*"
+      "Resource": "arn:aws:s3:::sycorp-file-storage/*"
     }
   ]
 }
